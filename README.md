@@ -8,7 +8,7 @@ The contents of the repository are the final product of the Bootstrap 5 Fundamen
 HTML/CSS/javaScript
 
 # Note
-I am not the original author of the code within the files in this repository. Rather, these were exercise files for which I followed along with course materials. While some of the lines were added by my, they were added as the result of the exercises followed through the aforementioned course. 
+I am not the original author of the code within the files in this repository. Rather, these were exercise files for which I followed along with course materials. While some of the lines of code were added by me, they were added as the result of the exercises followed through the aforementioned course. 
 
 # Installation/Usage
 1) Extract all contents to a folder
